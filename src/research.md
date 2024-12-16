@@ -4,24 +4,10 @@ title: Research
 
 ## Research
 
-Describe your current interests, list your publications, and describe your past projects.
+Ballet has always been my passion.  I was a dedicated ballet student and later became a professional ballerina.  While dancing professionally, I pursued a B.S. in Exercise Science at Kennesaw State University.  My original post-dance career plan was to be a physical therapist, but I realized that I was more interested in the science behind physical therapy.  Soon after this revelation, I was diagnosed with thyroid cancer, which renewed my passion, focus, and appreciation for research and science.
 
-For ideas see [https://chris.simpkins.phd/research.html](https://chris.simpkins.phd/research.html).
+Shortly after this experience, my mother was diagnosed with Parkinson's disease.  The more I learned about Parkinson's, the more I worried about her disease progression -- especially related to impaired balance and increased likelihood of experiencing a fall.  During my time as a ballerina and dance instructor, one of my most rewarding experiences was teaching ballet classes at Atlanta Ballet to adults aged 20-70.  I loved designing my adult ballet classes to help each student achieve their goals while sharing my love of ballet.  I strongly believe that ballet, and dance in general, has much to offer to the aging population.  Given my experience teaching ballet to older adults and anecdotally observing improvements in fall risk factors such as balance and muscular strength, I was surprised to find a dearth of research on the application of ballet training to the reduction of fall risk in people with Parkinson's.
 
-## Selected Publications
+My long-term goal is to develop a ballet syllabus with sound scientific bases that any dance school in the world can offer to adult students.  Imagine the impact of a non-pharmaceutical, low-cost intervention easily made available to the entire human population.  Even a tiny reduction in fall risk would eliminate a huge amount of human suffering and medical costs!  To begin my journey towards that goal, I conducted a pilot study exploring how ballet affected balance and stability in young adults.  I exposed professional ballet dancers and non-dancers to unexpected slip perturbations on a treadmill and compared their balance recovery responses.  The findings were encouraging.  The ballet dancers were more stable and exhibited more effective recovery stepping and trunk control.
 
-In the `inc` directory of your site repository, store a BibTeX file containing all of the publications on which you are an author and no others.  This site template contains a sample `publications.bib` file.
-
-This is how you insert a single reference.
-
-- [% bibitem bibfile="publications.bib" citekey="YOUR_LAST_NAME2000chicken" %]
-
-## All Publications
-
-This is how you insert all of the references in a `.bib` file (leave off the `citekey`).  Note that this form of the `bibitem` shortcode returns a complete HTML list, so this should be on a line by itself.
-
-TODO: this isn't implemented yet.
-
-## Past Projects
-
-Describe your past projects here.
+Research has shown that dance programs provide health benefits for older adults such as improved muscular strength, endurance, and balance.  My dissertation project -- Neurobiomechanical mechanisms of ballet practice preventing falls in older adults -- examined if and how ballet reduces fall risk in healthy older adults.  My dissertation work contributed to my long-term goal by establishing a theoretical basis for applying ballet to reduce falls in healthy older adults.  This project garnered both local and national interest and recognition, as it received competitive funding from Emory University, the American Society of Biomechanics, and Georgia State University.  I have published my work in prestigious peer-reviewed journals and presented it at national and international conferences.

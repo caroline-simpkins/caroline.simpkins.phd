@@ -19,11 +19,12 @@ out_dir = "docs"
 # GitHub template users, update these values with your own.
 # If you don't have a particular item, set it to None, e.g.:
 #   twitter_handle = None
-title = "YOUR_SITE_TITLE"
-headshot="@root/images/YOUR_HEADSHOT_PHOTO"
-professional_title ="YOUR_PROFESSIONAL_TITLE"
-professional_email ="YOUR_PROFESSIONAL_EMAIL"
-personal_email ="YOUR_PERSONAL_EMAIL"
-linkedin = "YOUR_LINKEDIN_PAGE"
-twitter_handle ="YOUR_TWITTER_HANDLE"
-github_org = "https://github.com/YOUR_GITHUB_ORG"
+title = "Caroline Simpkins, Ph.D."
+headshot="@root/images/carolinehead.jpeg"
+professional_title ="Postdoctoral Research Associate"
+professional_email ="claubacher1@gsu.edu"
+google_scholar = "https://scholar.google.com/citations?user=DBGQn3cAAAAJ&hl=en"
+personal_email =None
+linkedin = "https://www.linkedin.com/in/carolinesimpkins/"
+twitter_handle =None
+github_org = None
